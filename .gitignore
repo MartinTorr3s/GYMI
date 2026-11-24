@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+work/
+*.db
+*.db-shm
+*.db-wal
+.gymi-jwt.key*

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gymi.Entity/Gymi.Entity.csproj" />
+    <Project Path="src/Gymi.UseCase/Gymi.UseCase.csproj" />
+    <Project Path="src/Gymi.Repositories/Gymi.Repositories.csproj" />
+    <Project Path="src/Gymi.API/Gymi.API.csproj" />
+  </Folder>
+</Solution>
